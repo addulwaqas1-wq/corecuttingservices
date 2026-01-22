@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.example.com/</loc></url>
+  <url><loc>https://www.example.com/services/core-cutting.html</loc></url>
+  <url><loc>https://www.example.com/services/concrete-cutting.html</loc></url>
+  <url><loc>https://www.example.com/services/wall-sawing.html</loc></url>
+  <url><loc>https://www.example.com/services/slab-cutting.html</loc></url>
+  <url><loc>https://www.example.com/services/diamond-drilling.html</loc></url>
+  <url><loc>https://www.example.com/services/electrical-chasing.html</loc></url>
+  <url><loc>https://www.example.com/services/floor-sawing.html</loc></url>
+  <url><loc>https://www.example.com/services/anchor-bolt-installation.html</loc></url>
+</urlset>
